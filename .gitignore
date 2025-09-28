@@ -1,0 +1,4 @@
+# Secrets dosyaları
+secrets.h
+# macOS sistem dosyaları
+.DS_Store
